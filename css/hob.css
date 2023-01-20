@@ -1,0 +1,37 @@
+img{
+    padding-left: 50px;
+    padding-top: 30px;
+}
+.tra{
+    
+    background-color: azure;
+    padding-right: 50px;
+    padding-bottom: 30px;
+    position: absolute;
+    right: 50px;
+    top: 50px;
+}
+.tra2{
+    
+    background-color: azure;
+    padding-right: 50px;
+    padding-bottom: 30px;
+    position: absolute;
+    right: 50px;
+    bottom: 50px;
+}
+body{
+    position: relative;
+}
+.trav{
+    position: absolute;
+    right: 150px;
+    top: 450px;
+}
+.trav2{
+    position: absolute;
+    right: 150px;
+    top: 900px;
+}
+
+

@@ -1,0 +1,27 @@
+body{
+    text-align: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+h1{
+    padding-right: 250px;
+    padding-top: 68px;
+}
+h2{
+    padding-right: 350px;
+    padding-top: 40px;
+}
+h3{
+    padding-right: 400px;
+    padding-top: 60px;
+}
+h4{
+    padding-right: 430px;
+    padding-top: 30px;
+}
+h5{
+    padding-right: 440px;
+    padding-top: 20px;
+}
+em{
+    color: aliceblue;
+}
